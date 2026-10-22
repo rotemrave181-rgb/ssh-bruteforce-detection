@@ -1,0 +1,5 @@
+"ip","failures","successes","distinct_users","invalid_users","first_seen","last_seen","active_hours","max_fails_window","fails_before_ok","flags","severity"
+"203.0.113.99",85,1,1,0,2026-10-15 14:40:03,2026-10-15 14:43:42,0.1,85,85,"BURST COMPROMISE","CRITICAL"
+"203.0.113.45",320,0,1,0,2026-10-15 02:14:02,2026-10-15 02:23:38,0.2,172,0,"BURST","HIGH"
+"192.0.2.77",272,0,2,0,2026-10-15 01:05:33,2026-10-15 21:00:02,19.9,2,0,"LOW_AND_SLOW","HIGH"
+"198.51.100.23",140,0,15,140,2026-10-15 04:03:04,2026-10-15 04:11:15,0.1,87,0,"BURST ENUMERATION","HIGH"

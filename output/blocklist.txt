@@ -1,0 +1,5 @@
+# Suggested block list - review before applying
+iptables -A INPUT -s 203.0.113.99 -p tcp --dport 22 -j DROP
+iptables -A INPUT -s 203.0.113.45 -p tcp --dport 22 -j DROP
+iptables -A INPUT -s 192.0.2.77 -p tcp --dport 22 -j DROP
+iptables -A INPUT -s 198.51.100.23 -p tcp --dport 22 -j DROP
